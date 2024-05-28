@@ -8,7 +8,7 @@ We base our Theme: Master Access Control on Planning a [Minimum Viable Nothing (
 
 ## 2. Find the **Opportunities**.
 
-See [Learning Security Controls - Access Control](https://vanheemstrasystems.github.io/learning-security-controls/)
+See [Learning Access Control](https://vanheemstrasystems.github.io/learning-access-control/)
 
 ### a) Map out the **User Journey(s)**.
 
