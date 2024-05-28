@@ -5,48 +5,39 @@
       "name": "Security Controls",
       "children": [
         {
-          "name": "Access Control",
-          "children": []
+          "name": "Access Control"
         },
         {
-          "name": "Authentication & Authorization Management",
-          "children": []
+          "name": "Authentication & Authorization Management"
         },
         {
-          "name": "Content Filtering",
-          "children": []
+          "name": "Content Filtering"
         },
         {
-          "name": "Network Segmentation",
-          "children": []
+          "name": "Network Segmentation"
         },
         {
           "name": "Internet Access",
           "children": [
             {
-              "name": "Inbound",
-              "children": []
+              "name": "Inbound"
             },
             {
-              "name": "Outbound",
-              "children": []
+              "name": "Outbound"
             }
           ]
         },
         {
-          "name": "Access Logging & Monitoring",
-          "children": []
+          "name": "Access Logging & Monitoring"
         },
         {
           "name": "Opt Out",
           "children": [
             {
-              "name": "Filtering",
-              "children": []
+              "name": "Filtering"
             },
             {
-              "name": "Functionality",
-              "children": []
+              "name": "Functionality"
             }
           ]
         },
@@ -54,108 +45,85 @@
           "name": "Data Labelling",
           "children": [
             {
-              "name": "Input Filtering",
-              "children": []
+              "name": "Input Filtering"
             },
             {
-              "name": "Regulatory",
-              "children": []
+              "name": "Regulatory"
             }
           ]
         },
         {
-          "name": "Contractual Agreements",
-          "children": []
+          "name": "Contractual Agreements"
         },
         {
-          "name": "Conditional Access",
-          "children": []
+          "name": "Conditional Access"
         },
         {
-          "name": "Security Hardening",
-          "children": []
+          "name": "Security Hardening"
         },
         {
           "name": "Plugins Control",
           "children": [
             {
-              "name": "Agents",
-              "children": []
+              "name": "Agents"
             },
             {
-              "name": "Multiple Agents",
-              "children": []
+              "name": "Multiple Agents"
             }
           ]
         },
         {
-          "name": "Marketplace / Model Store Control",
-          "children": []
+          "name": "Marketplace / Model Store Control"
         },
         {
-          "name": "Geofencing",
-          "children": []
+          "name": "Geofencing"
         },
         {
-          "name": "Memory",
-          "children": []
+          "name": "Memory"
         },
         {
-          "name": "Data Sovereignity",
-          "children": []
+          "name": "Data Sovereignity"
         },
         {
-          "name": "Prompt & Response Logging & Monitoring",
-          "children": []
+          "name": "Prompt & Response Logging & Monitoring"
         },
         {
-          "name": "Configuration Drift Monitoring",
-          "children": []
+          "name": "Configuration Drift Monitoring"
         },
         {
-          "name": "Acceptable Use Policy Responsible AI",
-          "children": []
+          "name": "Acceptable Use Policy Responsible AI"
         },
         {
-          "name": "Malware Scanning",
-          "children": []
+          "name": "Malware Scanning"
         },
         {
-          "name": "Private Account Usage",
-          "children": []
+          "name": "Private Account Usage"
         },
         {
-          "name": "Copyright Infringement Scanning",
-          "children": []
+          "name": "Copyright Infringement Scanning"
         },
         {
-          "name": "Company Owned Encryption Keys",
-          "children": []
+          "name": "Company Owned Encryption Keys"
         },
         {
           "name": "Encryption",
           "children": [
             {
-              "name": "At Rest",
-              "children": []
+              "name": "At Rest"
             },
             {
-              "name": "In Transit",
-              "children": []
+              "name": "In Transit"
             }
           ]
         },
         {
-          "name": "Intrusion Detection",
-          "children": []
+          "name": "Intrusion Detection"
         },
         {
-          "name": "Back-up",
-          "children": []
+          "name": "Back-up"
         },
         {
-          "name": "Model Theft",
-          "children": []
+          "name": "Model Theft"
         }
       ]
     }
