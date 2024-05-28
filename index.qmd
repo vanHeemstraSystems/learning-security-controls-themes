@@ -37,3 +37,55 @@ __topicsChart = {
 ```
 
 # Master Access Control
+
+# Master Authentication & Authorization Management
+
+# Master Content Filtering
+
+# Master Network Segmentation
+
+# Master Internet Access
+
+# Master Access Logging & Monitoring
+
+# Master Opt Out
+
+# Master Data Labelling
+
+# Master Contractual Agreements
+
+# Master Conditional Access
+
+# Master Security Hardening
+
+# Master Plugins Control
+
+# Master Marketplace / Model Store Control
+
+# Master Geofencing
+
+# Master Memory
+
+# Master Data Sovereignity
+
+# Master Prompt & Response Logging & Monitoring
+
+# Master Configuration Drift Monitoring
+
+# Master Acceptable Use Policy Responsible AI
+
+# Master Malware Scanning
+
+# Master Private Account Usage
+
+# Master Copyright Infringement Scanning
+
+# Master Company Owned Encryption Keys
+
+# Master Encryption
+
+# Master Intrusion Detection
+
+# Master Back-up
+
+# Master Model Theft
