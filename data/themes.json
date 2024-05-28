@@ -21,6 +21,539 @@
               ]
             }
           ]
+        },
+        {
+          "name": "Authentication & Authorization Management",
+          "children": [
+            {
+              "name": "A",
+              "children": [
+                {
+                  "name": "A1",
+                  "value": 50
+                },
+                {
+                  "name": "A2",
+                  "value": 50
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Content Filtering",
+          "children": [
+            {
+              "name": "A",
+              "children": [
+                {
+                  "name": "A1",
+                  "value": 50
+                },
+                {
+                  "name": "A2",
+                  "value": 50
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Network Segmentation",
+          "children": [
+            {
+              "name": "A",
+              "children": [
+                {
+                  "name": "A1",
+                  "value": 50
+                },
+                {
+                  "name": "A2",
+                  "value": 50
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Internet Access",
+          "children": [
+            {
+              "name": "Inbound",
+              "children": [
+                {
+                  "name": "A1",
+                  "value": 50
+                },
+                {
+                  "name": "A2",
+                  "value": 50
+                }
+              ]
+            },
+            {
+              "name": "Outbound",
+              "children": [
+                {
+                  "name": "A1",
+                  "value": 50
+                },
+                {
+                  "name": "A2",
+                  "value": 50
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Access Logging & Monitoring",
+          "children": [
+            {
+              "name": "A",
+              "children": [
+                {
+                  "name": "A1",
+                  "value": 50
+                },
+                {
+                  "name": "A2",
+                  "value": 50
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Opt Out",
+          "children": [
+            {
+              "name": "Filtering",
+              "children": [
+                {
+                  "name": "A1",
+                  "value": 50
+                },
+                {
+                  "name": "A2",
+                  "value": 50
+                }
+              ]
+            },
+            {
+              "name": "Functionality",
+              "children": [
+                {
+                  "name": "A1",
+                  "value": 50
+                },
+                {
+                  "name": "A2",
+                  "value": 50
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Data Labelling",
+          "children": [
+            {
+              "name": "Input Filtering",
+              "children": [
+                {
+                  "name": "A1",
+                  "value": 50
+                },
+                {
+                  "name": "A2",
+                  "value": 50
+                }
+              ]
+            },
+            {
+              "name": "Regulatory",
+              "children": [
+                {
+                  "name": "A1",
+                  "value": 50
+                },
+                {
+                  "name": "A2",
+                  "value": 50
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Contractual Agreements",
+          "children": [
+            {
+              "name": "A",
+              "children": [
+                {
+                  "name": "A1",
+                  "value": 50
+                },
+                {
+                  "name": "A2",
+                  "value": 50
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Conditional Access",
+          "children": [
+            {
+              "name": "A",
+              "children": [
+                {
+                  "name": "A1",
+                  "value": 50
+                },
+                {
+                  "name": "A2",
+                  "value": 50
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Security Hardening",
+          "children": [
+            {
+              "name": "A",
+              "children": [
+                {
+                  "name": "A1",
+                  "value": 50
+                },
+                {
+                  "name": "A2",
+                  "value": 50
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Plugins Control",
+          "children": [
+            {
+              "name": "Agents",
+              "children": [
+                {
+                  "name": "A1",
+                  "value": 50
+                },
+                {
+                  "name": "A2",
+                  "value": 50
+                }
+              ]
+            },
+            {
+              "name": "Multiple Agents",
+              "children": [
+                {
+                  "name": "A1",
+                  "value": 50
+                },
+                {
+                  "name": "A2",
+                  "value": 50
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Marketplace / Model Store Control",
+          "children": [
+            {
+              "name": "A",
+              "children": [
+                {
+                  "name": "A1",
+                  "value": 50
+                },
+                {
+                  "name": "A2",
+                  "value": 50
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Geofencing",
+          "children": [
+            {
+              "name": "A",
+              "children": [
+                {
+                  "name": "A1",
+                  "value": 50
+                },
+                {
+                  "name": "A2",
+                  "value": 50
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Memory",
+          "children": [
+            {
+              "name": "A",
+              "children": [
+                {
+                  "name": "A1",
+                  "value": 50
+                },
+                {
+                  "name": "A2",
+                  "value": 50
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Data Sovereignity",
+          "children": [
+            {
+              "name": "A",
+              "children": [
+                {
+                  "name": "A1",
+                  "value": 50
+                },
+                {
+                  "name": "A2",
+                  "value": 50
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Prompt & Response Logging & Monitoring",
+          "children": [
+            {
+              "name": "A",
+              "children": [
+                {
+                  "name": "A1",
+                  "value": 50
+                },
+                {
+                  "name": "A2",
+                  "value": 50
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Configuration Drift Monitoring",
+          "children": [
+            {
+              "name": "A",
+              "children": [
+                {
+                  "name": "A1",
+                  "value": 50
+                },
+                {
+                  "name": "A2",
+                  "value": 50
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Acceptable Use Policy Responsible AI",
+          "children": [
+            {
+              "name": "A",
+              "children": [
+                {
+                  "name": "A1",
+                  "value": 50
+                },
+                {
+                  "name": "A2",
+                  "value": 50
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Malware Scanning",
+          "children": [
+            {
+              "name": "A",
+              "children": [
+                {
+                  "name": "A1",
+                  "value": 50
+                },
+                {
+                  "name": "A2",
+                  "value": 50
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Private Account Usage",
+          "children": [
+            {
+              "name": "A",
+              "children": [
+                {
+                  "name": "A1",
+                  "value": 50
+                },
+                {
+                  "name": "A2",
+                  "value": 50
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Copyright Infringement Scanning",
+          "children": [
+            {
+              "name": "A",
+              "children": [
+                {
+                  "name": "A1",
+                  "value": 50
+                },
+                {
+                  "name": "A2",
+                  "value": 50
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Company Owned Encryption Keys",
+          "children": [
+            {
+              "name": "A",
+              "children": [
+                {
+                  "name": "A1",
+                  "value": 50
+                },
+                {
+                  "name": "A2",
+                  "value": 50
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Encryption",
+          "children": [
+            {
+              "name": "At Rest",
+              "children": [
+                {
+                  "name": "A1",
+                  "value": 50
+                },
+                {
+                  "name": "A2",
+                  "value": 50
+                }
+              ]
+            },
+            {
+              "name": "In Transit",
+              "children": [
+                {
+                  "name": "A1",
+                  "value": 50
+                },
+                {
+                  "name": "A2",
+                  "value": 50
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Intrusion Detection",
+          "children": [
+            {
+              "name": "A",
+              "children": [
+                {
+                  "name": "A1",
+                  "value": 50
+                },
+                {
+                  "name": "A2",
+                  "value": 50
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Back-up",
+          "children": [
+            {
+              "name": "A",
+              "children": [
+                {
+                  "name": "A1",
+                  "value": 50
+                },
+                {
+                  "name": "A2",
+                  "value": 50
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Model Theft",
+          "children": [
+            {
+              "name": "A",
+              "children": [
+                {
+                  "name": "A1",
+                  "value": 50
+                },
+                {
+                  "name": "A2",
+                  "value": 50
+                }
+              ]
+            }
+          ]
         }
       ]
     }
